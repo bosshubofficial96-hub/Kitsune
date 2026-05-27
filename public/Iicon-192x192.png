@@ -1,0 +1,8 @@
+<img src="animemultiflix.png" class="logo">
+
+<style>
+.logo{
+  width:300px;
+  border-radius:10px;
+}
+</style>
